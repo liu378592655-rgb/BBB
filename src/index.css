@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Tenor+Sans&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-brand-gold: #d4b895;
+  --color-brand-gold-hover: #c4a681;
+  --color-brand-peach: #fdf1eb;
+  --color-brand-peach-text: #d0886a;
+  --color-brand-sand: #faf8f5;
+  --color-brand-dark: #333333;
+  
+  --font-sans: "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Tenor Sans", ui-serif, Georgia, serif;
+}
