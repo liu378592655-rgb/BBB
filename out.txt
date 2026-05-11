@@ -1,0 +1,18 @@
+src/components/Reviews.tsx:    image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/07.jpg"
+src/components/Reviews.tsx:    image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/08.jpg"
+src/components/Reviews.tsx:    image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/20.jpg"
+src/components/ThemeActivities.tsx:    image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/12.jpg',
+src/components/ThemeActivities.tsx:    image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/13.jpg',
+src/components/ThemeActivities.tsx:                  src={idx === 0 ? "https://github.com/liu378592655-rgb/NTP/releases/download/V1/07.jpg" : "https://github.com/liu378592655-rgb/NTP/releases/download/V1/08.jpg"} 
+src/components/SelfDiagnosis.tsx:              src="https://github.com/liu378592655-rgb/NTP/releases/download/V1/30.jpg" 
+src/components/BestSellers.tsx:      image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/01.jpg",
+src/components/BestSellers.tsx:      image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/02.jpg",
+src/components/BestSellers.tsx:      image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/03.jpg",
+src/components/BestSellers.tsx:      image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/04.jpg",
+src/components/Header.tsx:                src="https://github.com/liu378592655-rgb/NTP/releases/download/V1/NTP.logo.png" 
+src/components/Hero.tsx:          src="https://github.com/liu378592655-rgb/NTP-JANPAN-B/releases/download/NTP-B/banner-1920DOUBLE.jpg" 
+src/components/FeaturedCategories.tsx:    image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/05.jpg',
+src/components/FeaturedCategories.tsx:    image: 'https://github.com/liu378592655-rgb/NTP-JANPAN-B/releases/download/NTP-B/banner2.jpg',
+src/components/VolumeSearch.tsx:    img: 'https://github.com/liu378592655-rgb/NTP-JANPAN-B/releases/download/NTP-B/A.-.1.jpg'
+src/components/VolumeSearch.tsx:    img: 'https://github.com/liu378592655-rgb/NTP-JANPAN-B/releases/download/NTP-B/c.jpg'
+src/components/VolumeSearch.tsx:    img: 'https://github.com/liu378592655-rgb/NTP-JANPAN-B/releases/download/NTP-B/A.jpg'

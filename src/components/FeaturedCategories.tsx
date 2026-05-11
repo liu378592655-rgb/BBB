@@ -6,7 +6,7 @@ const CATEGORIES = [
     title: '脇肉キャッチャー',
     subtitle: 'WAKINIKU CATCHER',
     description: '背中・脇、はみ肉スッキリ。',
-    image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/05.jpg',
+    image: 'https://github.com/liu378592655-rgb/BBB/releases/download/BBB/05.jpg',
     color: 'bg-brand-gold'
   },
   {
@@ -14,7 +14,7 @@ const CATEGORIES = [
     title: '夜寄るブラ',
     subtitle: 'YORU YORU BRA',
     description: '寝ている間も、理想の形を。',
-    image: 'https://github.com/liu378592655-rgb/NTP-JANPAN-B/releases/download/NTP-B/banner2.jpg',
+    image: 'https://github.com/liu378592655-rgb/BBB/releases/download/BBB/banner2.jpg',
     color: 'bg-brand-gold'
   }
 ];

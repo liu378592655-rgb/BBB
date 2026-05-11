@@ -8,7 +8,7 @@ export function BestSellers() {
       category: "ビスチェ風ブラ",
       price: "¥13,200",
       features: ["ウエスト補正", "姿勢サポート"],
-      image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/01.jpg",
+      image: "https://github.com/liu378592655-rgb/BBB/releases/download/BBB/01.jpg",
       colors: ["#111827", "#f3f4f6", "#e5e7eb"], // black, white, pinkish
       rankBg: "bg-[#8c7a4e]",
       rankText: "text-white"
@@ -19,7 +19,7 @@ export function BestSellers() {
       category: "ナイトブラ",
       price: "¥3,300",
       features: ["重力対策", "型崩れ防止"],
-      image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/02.jpg",
+      image: "https://github.com/liu378592655-rgb/BBB/releases/download/BBB/02.jpg",
       colors: ["#111827", "#f3f4f6", "#e5e7eb"],
       rankBg: "bg-[#c1c4c8]",
       rankText: "text-gray-900"
@@ -30,7 +30,7 @@ export function BestSellers() {
       category: "脇高サポートブラ",
       price: "¥6,820",
       features: ["脇肉スッキリ", "肩こり軽減"],
-      image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/03.jpg",
+      image: "https://github.com/liu378592655-rgb/BBB/releases/download/BBB/03.jpg",
       colors: ["#111827", "#f3f4f6", "#e5e7eb"],
       rankBg: "bg-[#c58448]",
       rankText: "text-white"
@@ -41,7 +41,7 @@ export function BestSellers() {
       category: "補整ブラジャー",
       price: "¥6,820",
       features: ["高さ出し", "デコルテケア"],
-      image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/04.jpg",
+      image: "https://github.com/liu378592655-rgb/BBB/releases/download/BBB/04.jpg",
       colors: ["#111827", "#f3f4f6", "#e5e7eb"],
       rankBg: "bg-[#2f323a]",
       rankText: "text-white"

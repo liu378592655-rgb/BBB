@@ -5,7 +5,7 @@ export function Hero() {
     <section className="relative h-[80vh] min-h-[600px] w-full bg-brand-sand overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://github.com/liu378592655-rgb/NTP-JANPAN-B/releases/download/NTP-B/banner-1920DOUBLE.jpg" 
+          src="https://github.com/liu378592655-rgb/BBB/releases/download/BBB/banner-1920DOUBLE.jpg" 
           alt="Elegant lingerie" 
           className="w-full h-full object-cover object-top opacity-90"
         />

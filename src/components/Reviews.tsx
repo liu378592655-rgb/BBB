@@ -6,21 +6,21 @@ const REVIEWS = [
     name: "@sakura_daily",
     product: "脇肉キャッチャー",
     text: "「大きい胸だと太って見えがちですが、これに変えてから着痩せして見えると言われます！サイドがスッキリするのが嬉しい。」",
-    image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/07.jpg"
+    image: "https://github.com/liu378592655-rgb/BBB/releases/download/BBB/07.jpg"
   },
   {
     cup: "I80",
     name: "@kana_bodypositive",
     product: "ハリジェンヌ",
     text: "「カップの形がしっかりしていて、重い胸もしっかり支えてくれます。補整感が全然なくて、ナチュラルに綺麗に見えます。」",
-    image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/08.jpg"
+    image: "https://github.com/liu378592655-rgb/BBB/releases/download/BBB/08.jpg"
   },
   {
     cup: "F70",
     name: "@miki_lifestyle",
     product: "夜寄るブラ",
     text: "「産後のバスト崩れが悩みでしたが、苦しくないのに朝まで形をキープしてくれます。毎晩欠かせません。」",
-    image: "https://github.com/liu378592655-rgb/NTP/releases/download/V1/20.jpg"
+    image: "https://github.com/liu378592655-rgb/BBB/releases/download/BBB/20.jpg"
   }
 ];
 

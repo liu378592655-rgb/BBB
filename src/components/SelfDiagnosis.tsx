@@ -40,7 +40,7 @@ export function SelfDiagnosis() {
 
           <div className="relative aspect-[4/3] bg-gray-50 flex items-center justify-center overflow-hidden">
              <img 
-              src="https://github.com/liu378592655-rgb/NTP/releases/download/V1/30.jpg" 
+              src="https://github.com/liu378592655-rgb/BBB/releases/download/BBB/30.jpg" 
               alt="Measurement" 
               className="w-full h-full object-cover opacity-80 mix-blend-multiply"
             />

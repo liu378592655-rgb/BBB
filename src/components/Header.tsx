@@ -62,7 +62,7 @@ export function Header() {
           <div className="flex-shrink-0 flex items-center justify-center lg:flex-1 lg:justify-start">
             <a href="/" className="block">
               <img 
-                src="https://github.com/liu378592655-rgb/NTP/releases/download/V1/NTP.logo.png" 
+                src="https://github.com/liu378592655-rgb/BBB/releases/download/BBB/NTP.logo.png" 
                 alt="NAITANGPAI" 
                 className="h-5 lg:h-6 w-auto object-contain transition-opacity hover:opacity-80" 
                 style={{

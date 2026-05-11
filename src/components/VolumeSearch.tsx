@@ -6,21 +6,21 @@ const VOLUMES = [
     title: '小胸さん',
     cup: 'A-B CUP',
     desc: 'バストにボリュームを。',
-    img: 'https://github.com/liu378592655-rgb/NTP-JANPAN-B/releases/download/NTP-B/A.-.1.jpg'
+    img: 'https://github.com/liu378592655-rgb/BBB/releases/download/BBB/A.-.1.jpg'
   },
   {
     letter: 'C',
     title: '普通胸さん',
     cup: 'C-D CUP',
     desc: '自然な形、綺麗に。',
-    img: 'https://github.com/liu378592655-rgb/NTP-JANPAN-B/releases/download/NTP-B/c.jpg'
+    img: 'https://github.com/liu378592655-rgb/BBB/releases/download/BBB/c.jpg'
   },
   {
     letter: 'E',
     title: 'グラマーさん',
     cup: 'E-G CUP',
     desc: 'すっきり、コンパクトに。',
-    img: 'https://github.com/liu378592655-rgb/NTP-JANPAN-B/releases/download/NTP-B/A.jpg'
+    img: 'https://github.com/liu378592655-rgb/BBB/releases/download/BBB/A.jpg'
   }
 ];
 

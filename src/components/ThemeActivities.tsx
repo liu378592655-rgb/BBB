@@ -4,13 +4,13 @@ const THEMES = [
   {
     title: '春季焕新文胸',
     description: '春らしい軽やかな付け心地と、華やかなカラーリング。新しい季節を、新しいバストメイクで始めませんか。',
-    image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/12.jpg',
+    image: 'https://github.com/liu378592655-rgb/BBB/releases/download/BBB/12.jpg',
     color: 'bg-brand-peach/30'
   },
   {
     title: '冬季暖心文胸',
     description: '寒い季節も快適に。肌触りの良い起毛素材と、しっかりとしたホールド力で、心も体も温かく包み込みます。',
-    image: 'https://github.com/liu378592655-rgb/NTP/releases/download/V1/13.jpg',
+    image: 'https://github.com/liu378592655-rgb/BBB/releases/download/BBB/13.jpg',
     color: 'bg-brand-sand'
   }
 ];
@@ -32,7 +32,7 @@ export function ThemeActivities() {
               <div className="sm:w-1/2 aspect-square sm:aspect-auto relative overflow-hidden bg-white">
                 {/* Fallback image if 12/13 doesn't exist, let's use 05/06 or 07/08 */}
                 <img 
-                  src={idx === 0 ? "https://github.com/liu378592655-rgb/NTP/releases/download/V1/07.jpg" : "https://github.com/liu378592655-rgb/NTP/releases/download/V1/08.jpg"} 
+                  src={idx === 0 ? "https://github.com/liu378592655-rgb/BBB/releases/download/BBB/07.jpg" : "https://github.com/liu378592655-rgb/BBB/releases/download/BBB/08.jpg"} 
                   alt={theme.title}
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                 />
